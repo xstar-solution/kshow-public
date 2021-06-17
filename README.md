@@ -5,6 +5,7 @@ Watch Asian TV shows and movies online for FREE! Access to Korean Entertainment 
 ## MileStones:
 
 - [x] Brainstorm and pick framworks for IOS and Android
+- [x] Design and create logo and name
 - [x] Set up and create UI IOS with SwiftUI
 - [x] Set up Firebase database and function for backend
 - [x] Brainstorm and pick affordable storage for video streaming
