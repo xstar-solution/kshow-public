@@ -13,7 +13,8 @@ Watch Asian TV shows and movies online for FREE! Access to Korean Entertainment 
 - [x] Mockup backend and frontend
 - [x] Lauch to Apple Testflight
 - [x] Write the app policy and term of service
-- [ ] Finish all features and get ready for submit review
+- [x] Finish all features and get ready for submit review
 - [ ] Lauch to app store
+- [ ] Future features and update
 
 ### Status: On Track
