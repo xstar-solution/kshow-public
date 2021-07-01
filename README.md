@@ -2,7 +2,7 @@
 
 This repo store documents and resources for KSHOW project
 
-[Checkout Project Repo](https://github.com/hho114/kshow-ios-a)
+[Checkout KSHOW Project Repo](https://github.com/hho114/kshow-ios-a)
 
 ## What is KSHOW project?
 
